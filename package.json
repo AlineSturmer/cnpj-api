@@ -1,0 +1,5 @@
+{
+  "name": "cnpj-api",
+  "version": "2.0.0",
+  "description": "API de consulta de CNPJ para Vercel"
+}
